@@ -1,6 +1,6 @@
 # Projeto 1
 
-**Alunos**: Breno Amin e Maurício Taffarel
+**Autores**: [Breno Amin](https://github.com/brenoamin/) e Maurício Taffarel
 
 **Data**: 21/09/2021
 
