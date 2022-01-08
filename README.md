@@ -1,14 +1,12 @@
-# Projeto 1
+# 1. Antena Yagi-Uda
 
-**Autores**: [Breno Amin](https://github.com/brenoamin/) e Maurício Taffarel
+**Autores**: [Breno Amin](https://github.com/brenoamin/) e [Maurício Taffarel](https://github.com/taffarel55/)
 
 **Data**: 21/09/2021
 
 [TOC]
 
 <div style="page-break-after: always; break-after: page;"></div>
-
-## 1. Antena Yagi-Uda
 
 ### Introdução (Motivação)
 
@@ -227,7 +225,7 @@ Por fim, mas não menos importante, avaliou-se parâmetros muito importantes, co
 
 <div style="page-break-after: always; break-after: page;"></div>
 
-## 2. Rede de adaptação de impedâncias
+# 2. Rede de adaptação de impedâncias
 
 ### Introdução teórica simplifcada sobre casamento de impedâncias e stubs
 
